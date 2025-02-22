@@ -109,25 +109,5 @@ To decrypt an encrypted message:
 python decrypt.py --input "Encrypted message" --key "your_key" --sbox "sbox_values"
 ```
 
-### Testing
-Run the test suite:
-```bash
-python -m unittest discover tests
-```
-
-## References
-- **Project Paper:** Sukash L, Ahmed Samathani M B, Sudharsan K, Vignesh V, Tamil Selvan R. *Integrating Textual Name Values and Dynamic Key Generation with Advanced Non-Linear Transformations for Encryption.* International Journal of Innovative Research in Technology, Volume 11 Issue 6, November 2024. [View Paper](./IJIRT169305_PAPER.pdf)
-- Additional literature and sources are cited within the paper.
-
-## Authors
-- **Sukash L**
-- **Ahmed Samathani M B**
-- **Sudharsan K**
-- **Vignesh V**
-- **Tamil Selvan R**
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-Special thanks to the International Journal of Innovative Research in Technology (IJIRT) for supporting and publishing this work.
